@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/reac-tourito/static/css/main.15d8bc1e.css",
+    "main.js": "/reac-tourito/static/js/main.fba50853.js",
+    "static/media/blog2.jpg": "/reac-tourito/static/media/blog2.a7482aae562a03f859c7.jpg",
+    "static/media/blog1.jpg": "/reac-tourito/static/media/blog1.4cba6f8a1f4dc2cb6e57.jpg",
+    "static/media/city4.jpg": "/reac-tourito/static/media/city4.c163aa3bf8b272c6bedc.jpg",
+    "static/media/blog3.jpg": "/reac-tourito/static/media/blog3.e01608dbbc69b9f5abc8.jpg",
+    "static/media/headar.jpg": "/reac-tourito/static/media/headar.02fd66521e756f74b140.jpg",
+    "static/media/city3.jpg": "/reac-tourito/static/media/city3.7bd8dcdcc361bce310d9.jpg",
+    "static/media/city2.jpg": "/reac-tourito/static/media/city2.9827599a4f3da13af901.jpg",
+    "static/media/bg3.jpg": "/reac-tourito/static/media/bg3.f642380dfe88c7ee33ea.jpg",
+    "static/media/bg4.jpg": "/reac-tourito/static/media/bg4.e2b995f9269f832f3b52.jpg",
+    "static/media/bg2.jpg": "/reac-tourito/static/media/bg2.02df206977aef22fbdb9.jpg",
+    "static/media/bg1.jpg": "/reac-tourito/static/media/bg1.d913e8cb1fa6db58e3f1.jpg",
+    "static/media/icon-1.webp": "/reac-tourito/static/media/icon-1.3c3f75f3b55711a01413.webp",
+    "static/media/icon2.webp": "/reac-tourito/static/media/icon2.76d736e31705a3f789c4.webp",
+    "index.html": "/reac-tourito/index.html",
+    "static/media/icon-3.webp": "/reac-tourito/static/media/icon-3.2bc58af879358ab2e4c0.webp",
+    "main.15d8bc1e.css.map": "/reac-tourito/static/css/main.15d8bc1e.css.map",
+    "main.fba50853.js.map": "/reac-tourito/static/js/main.fba50853.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15d8bc1e.css",
+    "static/js/main.fba50853.js"
+  ]
+}
